@@ -12,5 +12,7 @@ void  hello(void)
 int main(void)
 {
     hello();
+    hello();
+    hello();
     return 0;
 }
